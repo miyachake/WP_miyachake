@@ -1,0 +1,4 @@
+WP_miyachake
+============
+
+WordPressのmiyachakeオリジナルテーマです
